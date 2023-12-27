@@ -2,7 +2,7 @@
   "name": "doctor-backend",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
@@ -13,3 +13,4 @@
     "json-server": "^0.17.4"
   }
 }
+
